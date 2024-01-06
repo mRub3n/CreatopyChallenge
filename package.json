@@ -1,0 +1,25 @@
+{
+  "name": "stackblitz-starters-xkoia8",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/react": "18.2.45",
+    "@types/react-dom": "18.2.18",
+    "konva": "^8.0.1 || ^7.2.5 || ^9.0.0",
+    "openai": "^4.24.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-konva": "^18.2.10",
+    "react-router-dom": "^6.21.1",
+    "styled-components": "^6.1.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}

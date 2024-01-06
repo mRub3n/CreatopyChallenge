@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 1rem;
+  font-family: system-ui, sans-serif;
+  color: black;
+  background-color: #eeeeee;
+  background-image: url('https://www.transparenttextures.com/patterns/cubes.png');
+}
+
+h1 {
+  font-weight: 800;
+  font-size: 1.5rem;
+}
+
+.content-container {
+  margin-top: 80px;
+}
+
+h4 {
+  margin: 0;
+  padding: 16px 20px;
+}
+
+
