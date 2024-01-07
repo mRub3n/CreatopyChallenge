@@ -68,7 +68,7 @@ const CostumingTemplates = (props) => {
             'User-Agent': 'Chrome',
           },
           body: JSON.stringify({
-            prompt: 'a tiny house in the mountains',
+            prompt: text.promptImage,
             n: 1,
             size: '512x512',
           }),
